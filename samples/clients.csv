@@ -1,0 +1,6 @@
+id,name,priority,value,requirements
+C1,Acme Corporation,8,50000,"urgent,high-quality"
+C2,TechStart Inc,6,30000,"fast-delivery"
+C3,Global Solutions,9,75000,"premium-support"
+C4,Local Business,4,15000,"cost-effective"
+C5,Enterprise Corp,10,100000,"enterprise-grade" 

@@ -1,0 +1,9 @@
+id,name,clientId,phases,skills,priority,estimatedHours
+T1,Website Redesign,C1,3,"UI/UX Design,React",8,40
+T2,API Development,C2,2,"Node.js,JavaScript",6,25
+T3,Database Migration,C3,4,"Python,Data Analysis",9,60
+T4,Mobile App Development,C4,5,"React Native,Mobile Development",4,80
+T5,Cloud Infrastructure Setup,C5,3,"DevOps,AWS",10,35
+T6,Data Analytics Dashboard,C1,2,"Python,Data Analysis,React",7,30
+T7,Microservices Architecture,C3,4,"Java,Spring Boot,Microservices",8,50
+T8,AI Model Development,C5,6,"Machine Learning,TensorFlow,Python",9,90 

@@ -1,0 +1,9 @@
+id,name,skills,availability,maxLoad
+W1,John Smith,"JavaScript,React,Node.js",85,3
+W2,Sarah Johnson,"Python,Django,Data Analysis",90,2
+W3,Mike Davis,"Java,Spring Boot,Microservices",75,4
+W4,Lisa Chen,"UI/UX Design,Adobe Creative Suite",95,2
+W5,Alex Brown,"DevOps,AWS,Docker,Kubernetes",80,3
+W6,Emma Wilson,"Project Management,Agile,Scrum",100,1
+W7,David Lee,"Mobile Development,React Native",70,3
+W8,Jessica Kim,"Machine Learning,TensorFlow,Python",85,2 
